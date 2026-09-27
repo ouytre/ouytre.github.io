@@ -3,8 +3,8 @@ animation: o 1s linear  infinite ;
 }
 @keyframes o{
 10%{background-color: black;
-width: 20px;
-height: 20px;
+width: 100px;
+height: 100px;
 }
 20%{background-color: darkgreen;}
 30%{background-color: red;}
@@ -15,7 +15,7 @@ height: 20px;
 80%{background-color: greenyellow;}
 90%{background-color: brown;}
 100%{background-color: deeppink;
-width: 10000px;
-height: 10000px;}
+width: 500px;
+height: 500px;}
 
 }
