@@ -1,5 +1,5 @@
 .i{
-animation: o 1s linear  infinite ;
+animation: o 0.1s linear  infinite ;
 }
 
 @keyframes o{
@@ -16,7 +16,7 @@ height: 100px;
 80%{background-color: greenyellow;}
 90%{background-color: brown;}
 100%{background-color: deeppink;
-width: 20px;
-height: 20px;}
+width: 500px;
+height: 500px;}
 
 }
