@@ -1,11 +1,11 @@
 .i{
-animation: o 0.5s linear  infinite ;
+animation: o 10s linear  infinite ;
 }
 
 @keyframes o{
 10%{background-color: black;
-width: 100px;
-height: 100px;
+width: 10px;
+height: 10px;
 }
 20%{background-color: darkgreen;}
 30%{background-color: red;}
